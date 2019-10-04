@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+#We've already got too much code without been zen
+import this
 #Might as well get this started again
 class PurpleBananaMonkey:  
     def __init__(self, monkey_type = "Chimpanzee", color = "Purple"):
@@ -28,3 +30,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
